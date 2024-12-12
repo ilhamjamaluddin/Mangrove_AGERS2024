@@ -12,7 +12,7 @@ https://code.earthengine.google.com/898b0d1b8a17f994f426e6ec800799ba
 ## Expected Output:
 ### XGBoost Feature Importance
 ![image alt](https://github.com/ilhamjamaluddin/Mangrove_AGERS2024/blob/c2b986966c04390c70f50db20cd20e80f4303f92/image/Feature_Importance.png)
-### Mangrove Map in 2017
+### Mangrove Map in 2019
 ![image alt](https://github.com/ilhamjamaluddin/Mangrove_AGERS2024/blob/c2b986966c04390c70f50db20cd20e80f4303f92/image/Mangrove_Map_2019.png)
 ### Mangrove Map in 2024
 ![image alt](https://github.com/ilhamjamaluddin/Mangrove_AGERS2024/blob/c2b986966c04390c70f50db20cd20e80f4303f92/image/Mangrove_Map_2024.png)
