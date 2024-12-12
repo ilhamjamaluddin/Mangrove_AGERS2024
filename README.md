@@ -7,6 +7,7 @@ GEE and Google Colab Source Code Presented in AGERS2024 (December 14th, 2024) in
 https://code.earthengine.google.com/898b0d1b8a17f994f426e6ec800799ba
 
 ## Access the Google Colab file in this repository for the XGBoost Training and Mangrove Map Processing
+![Open In Colab](https://github.com/ilhamjamaluddin/Mangrove_AGERS2024/blob/fc28634aa2e3df728a26be7084a266b955af7868/AGERS2024_XGBoost.ipynb)
 
 ## Expected Output:
 ### XGBoost Feature Importance
