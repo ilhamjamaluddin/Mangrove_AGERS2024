@@ -3,6 +3,9 @@ GEE and Google Colab Source Code Presented in AGERS2024 (December 14th, 2024) in
 
 ## Title: Artificial Intelligence for Mangrove Mapping and Monitoring using Remote Sensing Imagery and Extreme Gradient Boosting (XGBoost) Algorithm with Python
 
+## Download Folder Data
+https://drive.google.com/file/d/1VhqSyXgISKDO4sBBZmLlJr7XQGwD78LC/view?usp=sharing
+
 ## Sentinel-2 PreProcessing and Point Sample Creation in Google Earth Engine
 https://code.earthengine.google.com/898b0d1b8a17f994f426e6ec800799ba
 
